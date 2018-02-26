@@ -1,2 +1,2 @@
 # springboot
-springboot examples
+simple springboot examples
